@@ -1,2 +1,7 @@
-# ansi-image-generator
+# ANSI Image Generator
+
 generator for images using ANSI escape codes using Processing (for use in Discord and Windows Command Prompt)
+
+## Usage
+
+
